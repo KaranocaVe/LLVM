@@ -30,10 +30,6 @@ It leverages the **eBPF (Extended Berkeley Packet Filter)** framework, programme
 ### Build & Run
 
 1.  **Clone:**
-    ```bash
-    git clone https://github.com/YourUserName/LowLevelVpnMachine.git
-    cd LowLevelVpnMachine
-    ```
 2.  **Build:**
     ```bash
     make
